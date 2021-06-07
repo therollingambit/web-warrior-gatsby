@@ -7,17 +7,17 @@
 
 # Project Title
 
-A simple portfolio website using Gatsby.js
+A simple mock portfolio website using Gatsby.js
 
 
 ## Demo
 
-Insert gif or link to demo
+https://webwarrior-gatsby-enaya.netlify.app/
 
 
 ## Screenshot
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./src/images/demo.png)
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
